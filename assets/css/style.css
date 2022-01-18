@@ -1,0 +1,22 @@
+.header{
+    background-color: 	#00001a !important;
+    width: auto;
+    height:140px;
+}
+.logo{
+    margin-top: -150px;
+    margin-bottom: -205px;
+    height: 450px;
+    width: 450px;
+}
+.tagline{
+    margin-top: -43px;
+    margin-left: 30px;
+}
+
+.nav-link{
+    text-decoration: none;
+    color: #e6e6ff;
+    
+    font-size: 130%;
+}
