@@ -9,6 +9,11 @@
     height: 450px;
     width: 450px;
 }
+.tempLogo{
+    color:#e6e6ff;
+    padding-top: 50px;
+    padding-left: 30px;
+}
 .tagline{
     margin-top: -43px;
     margin-left: 30px;
@@ -17,6 +22,6 @@
 .nav-link{
     text-decoration: none;
     color: #e6e6ff;
-    
+    font-family: 'EB Garamond', serif;
     font-size: 130%;
 }
